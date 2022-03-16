@@ -13,4 +13,3 @@ Jupyter source using [googletrans](https://pypi.org/project/googletrans/) packag
 ```
 $ pip install googletrans==4.0.0-rc1
 ```
-
